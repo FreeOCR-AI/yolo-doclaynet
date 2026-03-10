@@ -8,6 +8,7 @@
 
 ### 🔥 Latest Updates
 
+- **2026/03/10**: Released YOLOv26 models - [**Get YOLOv26x**](https://buymeacoffee.com/ppaanngggg/e/518589)
 - **2025/03/10**: Released YOLOv12 models - [**Get YOLOv12x**](https://buymeacoffee.com/ppaanngggg/e/384798)
 - **2024/10/07**: Released YOLOv11 models - [**Get YOLOv11x**](https://buymeacoffee.com/ppaanngggg/e/313976)
 - **2024/07/10**: Released YOLOv10 models - [**Get YOLOv10x**](https://buymeacoffee.com/ppaanngggg/e/275645)
@@ -101,6 +102,10 @@ DocLayNet can be found more details and download at this [link](https://github.c
   typically appearing in large font.
 
 ### Prepare data
+
+You can download the processed dataset directly from Hugging Face: [**hantian/doclaynet-for-yolo**](https://huggingface.co/datasets/hantian/doclaynet-for-yolo).
+
+Alternatively, you can prepare the data manually:
 
 1. download DocLayNet dataset by
    this [link](https://codait-cos-dax.s3.us.cloud-object-storage.appdomain.cloud/dax-doclaynet/1.0.0/DocLayNet_core.zip)
